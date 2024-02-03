@@ -1,30 +1,17 @@
-# React + TypeScript + Vite
+# Github Search User
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+A Frontend project that possible the user to search Github users info.
 
-Currently, two official plugins are available:
+## Tecnologies
+- React JS
+- Typescript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+<div style="display: flex;flex-direction: column;gap: 20px;">
+    <img src="./public/screenshots/screenshot-1.png" width="400">
+    <img src="./public/screenshots/screenshot-2.png" width="400">
+    <img src="./public/screenshots/screenshot-3.png" width="400">
+</div>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Project URL: (soon)

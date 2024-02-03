@@ -1,0 +1,21 @@
+.loading {
+    width: 40px;
+    height: 40px;
+    border: 6px solid #FFFFFF;
+    border-radius: 50%;
+    border-top: 6px solid #A367B1;
+    animation-name: spinner;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    margin-top: 20px;
+}
+
+@keyframes spinner {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
