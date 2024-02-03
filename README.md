@@ -13,4 +13,4 @@ A Frontend project that possible the user to search Github users info.
 <br>
 <img src="./public/screenshots/screenshot-3.png" width="400">
 
-Project URL: (soon)
+Project URL: https://github-search-user-self.vercel.app/
