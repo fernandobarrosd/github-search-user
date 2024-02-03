@@ -1,6 +1,5 @@
 # Github Search User
 
-## About
 A Frontend project that possible the user to search Github users info.
 
 ## Tecnologies
