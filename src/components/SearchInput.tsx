@@ -16,6 +16,7 @@ export function SearchInput({ onSearch } : SearchInputProps) {
     });
    
     function handleClick() {
+        localStorage.setItem("@gitbub-search-user/search-value", value);
         onSearch(value);     
     }
     return (

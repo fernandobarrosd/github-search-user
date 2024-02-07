@@ -1,4 +1,3 @@
-import "./scss/style.scss";
 import { useState } from "react";
 import { SearchInput } from "./components/SearchInput";
 import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
